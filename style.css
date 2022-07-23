@@ -17,7 +17,11 @@ h3 {
 }
 p {
   font-size: 18px;
-  font-family:helvetica
+  font-family:helvetica;
+  padding-left: 120px;
+  padding: ;
+  padding-right: 100px;
+  text-align: justify;
 }
 img {
   display: block;
